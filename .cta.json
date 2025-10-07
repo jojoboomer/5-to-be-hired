@@ -1,0 +1,14 @@
+{
+  "projectName": "5-to-be-hired",
+  "mode": "code-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "yarn",
+  "addOnOptions": {},
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "eslint"
+  ]
+}
